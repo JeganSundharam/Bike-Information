@@ -17,18 +17,21 @@ public class ktm implements Bike {
 		k.cost();
 		k.speed();
 
-		
 		System.out.println("hello world");
 		System.out.println("Bike vs Car vs Plane");
 		System.out.println("123456678");
-	
 
 	}
 
 	@Override
 	public void milage() {
 		System.out.println("milage ");
-		
+
+	}
+
+	private void maintenance() {
+
+		System.out.println("maintanence");
 	}
 
 }
