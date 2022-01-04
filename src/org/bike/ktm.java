@@ -25,4 +25,15 @@ public class ktm implements Bike {
 
 	}
 
+	
+	
+	
+	
+	
+	
+	
+	private void maintenance() {
+		
+System.out.println("maintanence");
+	}
 }
