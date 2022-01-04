@@ -25,4 +25,10 @@ public class ktm implements Bike {
 
 	}
 
+	@Override
+	public void milage() {
+		System.out.println("milage ");
+		
+	}
+
 }
