@@ -20,4 +20,10 @@ public class ktm implements Bike {
 		System.out.println("Bike vs Car vs Plane");
 	}
 
+	@Override
+	public void milage() {
+		System.out.println("milage ");
+		
+	}
+
 }

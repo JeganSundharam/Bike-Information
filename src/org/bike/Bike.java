@@ -4,4 +4,5 @@ public interface Bike {
 
 	public abstract void cost();
 	public abstract void speed();
+	public abstract void milage();
 }
