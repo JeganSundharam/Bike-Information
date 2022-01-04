@@ -16,8 +16,13 @@ public class ktm implements Bike {
 		ktm k = new ktm();
 		k.cost();
 		k.speed();
+
+		
 		System.out.println("hello world");
 		System.out.println("Bike vs Car vs Plane");
+		System.out.println("123456678");
+	
+
 	}
 
 	@Override
